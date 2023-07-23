@@ -1,0 +1,1 @@
+bird/wing_flap 3;3;3 loop
